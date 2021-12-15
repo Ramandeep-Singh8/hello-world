@@ -25,7 +25,7 @@ function App() {
       <h1>Smith, John</h1>
       <h3>Age: {johnAge}</h3>
       <h3>Hair Color: Brown</h3>
-      <button onClick={() => ageCounter('john')}>Birthday Button for Jane Doe</button>
+      <button onClick={() => ageCounter('john')}>Birthday Button for John Smith</button>
       
     </div>
     </div>
