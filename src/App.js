@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Formpage from './form';
 
 function App() {
   return (
     <div className="App">
-      Hello World
+      <Formpage />
     </div>
   );
 }
